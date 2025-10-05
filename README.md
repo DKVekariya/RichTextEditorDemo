@@ -40,7 +40,14 @@ A modern, native rich text editor built with SwiftUI and iOS 26+ APIs. This demo
 
 ## 📱 Screenshots
 
-[Sample](https://github.com/DKVekariya/RichTextEditorDemo/blob/main/RichTextEditorDemo/Documents/rich_editor_demo)
+<table>
+  <tr>
+    <th  width="100%" >mac Editor dark</th>
+  </tr>
+  <tr align="center">
+    <td> <img src="/RichTextEditorDemo/Documents/rich_editor_demo.png"  width="70%" /> </td>
+  </tr>
+</table>
 
 ## 🚀 Getting Started
 
