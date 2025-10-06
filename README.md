@@ -1,11 +1,11 @@
-# 📝 SwiftUI Rich Text Editor
-
-A modern, native rich text editor built with SwiftUI and iOS 26+ APIs. This demo showcases the power of `AttributedString`, `AttributedTextSelection`, and `TextEditor` to create a fully-featured text formatting experience without UIKit.
-
 ![iOS](https://img.shields.io/badge/iOS-26.0+-blue.svg)
 ![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-5.0-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+# 📝 SwiftUI Rich Text Editor
+
+A modern, native rich text editor built with SwiftUI and iOS 26+ APIs. This demo showcases the power of `AttributedString`, `AttributedTextSelection`, and `TextEditor` to create a fully-featured text formatting experience without UIKit.
 
 ## ✨ Features
 
