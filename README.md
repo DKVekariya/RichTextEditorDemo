@@ -38,6 +38,9 @@ A modern, native rich text editor built with SwiftUI and iOS 26+ APIs. This demo
 - **Status Bar** - Live document statistics
 - **Responsive Design** - Works on all iOS devices
 
+### Article
+I have also written detaild article on this which explains it well, You can have a look here: https://medium.com/@dkvekariya/how-to-build-rich-text-editor-in-swiftui-f09a39d2dce9
+
 ## 📱 Screenshots
 
 <table>
